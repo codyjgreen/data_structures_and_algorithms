@@ -1,3 +1,5 @@
+### Collaborated with Benjamin Hurst and Madeline Peters 
+
 # Insert and shift middle index of array
 Take an array find the middle and insert a given value into the middle of the array.
 
