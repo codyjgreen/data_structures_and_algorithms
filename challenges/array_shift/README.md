@@ -13,3 +13,5 @@ def insert_shift_array(array, val):
     second_half = [len(array)//2:]
     return first_half + [val] + second_half
 ```
+
+[Link to picture](https://github.com/codyjgreen/data_structures_and_algorithms/blob/array_shift/assets/shift_array.jpg)
