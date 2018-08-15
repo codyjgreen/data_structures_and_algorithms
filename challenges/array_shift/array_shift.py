@@ -1,7 +1,6 @@
 
-array = [1,2,3,4]
 
-def insert_shift_array(array, val):
+def insert_shift_array(array, value):
     first_half = [:len(array)//2]
     second_half = [len(array)//2:]
-    return first_half + [val] + second_half
+    return first_half + [value] + second_half

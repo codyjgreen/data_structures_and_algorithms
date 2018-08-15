@@ -8,10 +8,10 @@ insert a value into the middle of an array
 
 ## Solution
 ```
-def insert_shift_array(array, val):
+def insert_shift_array(array, value):
     first_half = [:len(array)//2]
     second_half = [len(array)//2:]
-    return first_half + [val] + second_half
+    return first_half + [value] + second_half
 ```
 
 [Link to picture](https://github.com/codyjgreen/data_structures_and_algorithms/blob/array_shift/assets/shift_array.jpg)
