@@ -26,4 +26,4 @@ def binary_search(arr, k):
 print(binary_search([1, 2, 3, 4, 5, 6, 7], 2))
 ```
 
-[Link to picture]()
+[Link to picture](https://github.com/codyjgreen/data_structures_and_algorithms/blob/master/assets/array_binary_search.jpg)
